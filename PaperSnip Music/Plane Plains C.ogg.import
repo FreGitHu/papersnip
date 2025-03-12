@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b7l2ddsnuwbh"
+path="res://.godot/imported/Plane Plains C.ogg-f27be224ae749482c86fa61165d8893d.oggvorbisstr"
+
+[deps]
+
+source_file="res://PaperSnip Music/Plane Plains C.ogg"
+dest_files=["res://.godot/imported/Plane Plains C.ogg-f27be224ae749482c86fa61165d8893d.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

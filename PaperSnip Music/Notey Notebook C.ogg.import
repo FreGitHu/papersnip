@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://nmc8ndjipqla"
+path="res://.godot/imported/Notey Notebook C.ogg-0931efa1fccc172f1c7a97d7dd1cb988.oggvorbisstr"
+
+[deps]
+
+source_file="res://PaperSnip Music/Notey Notebook C.ogg"
+dest_files=["res://.godot/imported/Notey Notebook C.ogg-0931efa1fccc172f1c7a97d7dd1cb988.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

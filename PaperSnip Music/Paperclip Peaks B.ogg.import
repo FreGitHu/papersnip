@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://tja55367vgga"
+path="res://.godot/imported/Paperclip Peaks B.ogg-883ce54eaf87c5ef04c6a9351ce94f26.oggvorbisstr"
+
+[deps]
+
+source_file="res://PaperSnip Music/Paperclip Peaks B.ogg"
+dest_files=["res://.godot/imported/Paperclip Peaks B.ogg-883ce54eaf87c5ef04c6a9351ce94f26.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

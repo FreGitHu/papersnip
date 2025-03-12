@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dnsadcy751tk0"
+path="res://.godot/imported/Jumpy Jotter C.ogg-73b9678e42897dbbe7821c13b579d914.oggvorbisstr"
+
+[deps]
+
+source_file="res://PaperSnip Music/Jumpy Jotter C.ogg"
+dest_files=["res://.godot/imported/Jumpy Jotter C.ogg-73b9678e42897dbbe7821c13b579d914.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

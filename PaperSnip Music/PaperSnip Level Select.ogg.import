@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bhgt5ff4rug77"
+path="res://.godot/imported/PaperSnip Level Select.ogg-73bf801a1323d73363bc3b6170ce0806.oggvorbisstr"
+
+[deps]
+
+source_file="res://PaperSnip Music/PaperSnip Level Select.ogg"
+dest_files=["res://.godot/imported/PaperSnip Level Select.ogg-73bf801a1323d73363bc3b6170ce0806.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

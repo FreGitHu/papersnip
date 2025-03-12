@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://43mj3qydfip3"
+path="res://.godot/imported/Mathy Mathbook A.ogg-a217fe4e52df6a2de1e2b928bc8588f5.oggvorbisstr"
+
+[deps]
+
+source_file="res://PaperSnip Music/Mathy Mathbook A.ogg"
+dest_files=["res://.godot/imported/Mathy Mathbook A.ogg-a217fe4e52df6a2de1e2b928bc8588f5.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

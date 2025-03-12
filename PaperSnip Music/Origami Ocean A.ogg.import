@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dunl52vpwuyrx"
+path="res://.godot/imported/Origami Ocean A.ogg-11f4d6867c0b472a71e307611f9950e2.oggvorbisstr"
+
+[deps]
+
+source_file="res://PaperSnip Music/Origami Ocean A.ogg"
+dest_files=["res://.godot/imported/Origami Ocean A.ogg-11f4d6867c0b472a71e307611f9950e2.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

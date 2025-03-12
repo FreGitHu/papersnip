@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://durriit25s2rn"
+path="res://.godot/imported/Sticky Stadium C.ogg-7ddb571b484efb19d573b829e3597b39.oggvorbisstr"
+
+[deps]
+
+source_file="res://PaperSnip Music/Sticky Stadium C.ogg"
+dest_files=["res://.godot/imported/Sticky Stadium C.ogg-7ddb571b484efb19d573b829e3597b39.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

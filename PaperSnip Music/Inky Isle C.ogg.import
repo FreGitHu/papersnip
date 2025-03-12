@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://be36lx6uubyvj"
+path="res://.godot/imported/Inky Isle C.ogg-7bd620d862e76481944d9bc432ac2aa9.oggvorbisstr"
+
+[deps]
+
+source_file="res://PaperSnip Music/Inky Isle C.ogg"
+dest_files=["res://.godot/imported/Inky Isle C.ogg-7bd620d862e76481944d9bc432ac2aa9.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

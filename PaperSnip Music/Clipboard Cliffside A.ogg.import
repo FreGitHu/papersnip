@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://hivaxbqmpaae"
+path="res://.godot/imported/Clipboard Cliffside A.ogg-c7ce3b08523f9ac0713857441125184c.oggvorbisstr"
+
+[deps]
+
+source_file="res://PaperSnip Music/Clipboard Cliffside A.ogg"
+dest_files=["res://.godot/imported/Clipboard Cliffside A.ogg-c7ce3b08523f9ac0713857441125184c.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

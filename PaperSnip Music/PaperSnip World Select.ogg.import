@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://ditmh63f8ti7a"
+path="res://.godot/imported/PaperSnip World Select.ogg-1bde2e79cd905faf2dcccb4f55c8c072.oggvorbisstr"
+
+[deps]
+
+source_file="res://PaperSnip Music/PaperSnip World Select.ogg"
+dest_files=["res://.godot/imported/PaperSnip World Select.ogg-1bde2e79cd905faf2dcccb4f55c8c072.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

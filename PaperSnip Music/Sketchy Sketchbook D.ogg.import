@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://r1s5s8ftheq1"
+path="res://.godot/imported/Sketchy Sketchbook D.ogg-8601dc6821c212b106fac47c2d86de39.oggvorbisstr"
+
+[deps]
+
+source_file="res://PaperSnip Music/Sketchy Sketchbook D.ogg"
+dest_files=["res://.godot/imported/Sketchy Sketchbook D.ogg-8601dc6821c212b106fac47c2d86de39.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dkhcxshmfp0o1"
+path="res://.godot/imported/Scissors Scrapyard D.ogg-91a7571b0f0ff9d7c44686463b9198cb.oggvorbisstr"
+
+[deps]
+
+source_file="res://PaperSnip Music/Scissors Scrapyard D.ogg"
+dest_files=["res://.godot/imported/Scissors Scrapyard D.ogg-91a7571b0f0ff9d7c44686463b9198cb.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

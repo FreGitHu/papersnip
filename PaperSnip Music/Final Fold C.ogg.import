@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://chgx46utp5ek3"
+path="res://.godot/imported/Final Fold C.ogg-8ac583fd2490e30a50da139563f73bc8.oggvorbisstr"
+
+[deps]
+
+source_file="res://PaperSnip Music/Final Fold C.ogg"
+dest_files=["res://.godot/imported/Final Fold C.ogg-8ac583fd2490e30a50da139563f73bc8.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

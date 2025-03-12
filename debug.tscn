@@ -1,0 +1,41 @@
+[gd_scene load_steps=7 format=3 uid="uid://drw0y7n38ojiu"]
+
+[ext_resource type="Script" path="res://Scripts/Core/MovementScript.cs" id="2_qvk4y"]
+[ext_resource type="Texture2D" uid="uid://cn5u3uok3lkkx" path="res://Graphics/GRAPHics/white_graph.svg" id="2_uf2ma"]
+[ext_resource type="Script" path="res://Scripts/Core/LegDrawer.cs" id="3_jwvsm"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_77103"]
+size = Vector2(126, 130)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_d4p1v"]
+size = Vector2(1151.5, 131)
+
+[sub_resource type="PlaceholderTexture2D" id="PlaceholderTexture2D_lb2pq"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="CharacterBody2D" type="CharacterBody2D" parent="."]
+position = Vector2(64, 66)
+script = ExtResource("2_qvk4y")
+
+[node name="Icon" type="Sprite2D" parent="CharacterBody2D"]
+texture = ExtResource("2_uf2ma")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="CharacterBody2D"]
+position = Vector2(1, 130)
+shape = SubResource("RectangleShape2D_77103")
+
+[node name="LeftLeg" type="Line2D" parent="CharacterBody2D"]
+script = ExtResource("3_jwvsm")
+
+[node name="StaticBody2D" type="StaticBody2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2(575.25, 569.5)
+shape = SubResource("RectangleShape2D_d4p1v")
+
+[node name="Sprite2D" type="Sprite2D" parent="StaticBody2D"]
+texture_repeat = 2
+position = Vector2(577.596, 574.225)
+scale = Vector2(1150.81, 141.551)
+texture = SubResource("PlaceholderTexture2D_lb2pq")

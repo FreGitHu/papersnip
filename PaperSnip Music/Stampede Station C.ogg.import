@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cqxe3hkb2aicp"
+path="res://.godot/imported/Stampede Station C.ogg-33a385acfc0da3aab8422046f7cda09f.oggvorbisstr"
+
+[deps]
+
+source_file="res://PaperSnip Music/Stampede Station C.ogg"
+dest_files=["res://.godot/imported/Stampede Station C.ogg-33a385acfc0da3aab8422046f7cda09f.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

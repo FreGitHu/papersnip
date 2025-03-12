@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dtgqqq7p8ernm"
+path="res://.godot/imported/Eraser Enclave D.ogg-713779e07e6af12ea5e3c3ecdeb5961f.oggvorbisstr"
+
+[deps]
+
+source_file="res://PaperSnip Music/Eraser Enclave D.ogg"
+dest_files=["res://.godot/imported/Eraser Enclave D.ogg-713779e07e6af12ea5e3c3ecdeb5961f.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

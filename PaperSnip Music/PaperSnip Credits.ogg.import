@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://77sl1ux1n0oi"
+path="res://.godot/imported/PaperSnip Credits.ogg-8834dd9a6d45bb79b6c9156a4661b5a4.oggvorbisstr"
+
+[deps]
+
+source_file="res://PaperSnip Music/PaperSnip Credits.ogg"
+dest_files=["res://.godot/imported/PaperSnip Credits.ogg-8834dd9a6d45bb79b6c9156a4661b5a4.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

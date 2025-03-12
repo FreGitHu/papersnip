@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c1gjvsw2ur3ns"
+path="res://.godot/imported/PaperSnip Character Select.ogg-08c4a5bb3420218480cdb28ff53eab24.oggvorbisstr"
+
+[deps]
+
+source_file="res://PaperSnip Music/PaperSnip Character Select.ogg"
+dest_files=["res://.godot/imported/PaperSnip Character Select.ogg-08c4a5bb3420218480cdb28ff53eab24.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
