@@ -12,7 +12,7 @@ dest_files=["res://.godot/imported/Sketchy Sketchbook C.ogg-e735ab5be21d9d280722
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0
 bpm=0
 beat_count=0

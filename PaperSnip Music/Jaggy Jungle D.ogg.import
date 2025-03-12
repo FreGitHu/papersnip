@@ -12,7 +12,7 @@ dest_files=["res://.godot/imported/Jaggy Jungle D.ogg-09cb3bd12c47ab4f56d6829e07
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0
 bpm=0
 beat_count=0

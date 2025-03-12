@@ -12,7 +12,7 @@ dest_files=["res://.godot/imported/Jumpy Jotter C.ogg-73b9678e42897dbbe7821c13b5
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0
 bpm=0
 beat_count=0

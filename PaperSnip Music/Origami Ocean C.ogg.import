@@ -12,7 +12,7 @@ dest_files=["res://.godot/imported/Origami Ocean C.ogg-efdac6813d46b4347546d2a9a
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0
 bpm=0
 beat_count=0

@@ -12,7 +12,7 @@ dest_files=["res://.godot/imported/Mathy Mathbook A.ogg-a217fe4e52df6a2de1e2b928
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0
 bpm=0
 beat_count=0

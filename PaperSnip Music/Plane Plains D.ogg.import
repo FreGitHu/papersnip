@@ -12,7 +12,7 @@ dest_files=["res://.godot/imported/Plane Plains D.ogg-75731a5748f0997ff5d13cbb56
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0
 bpm=0
 beat_count=0

@@ -12,7 +12,7 @@ dest_files=["res://.godot/imported/Paperclip Peaks B.ogg-883ce54eaf87c5ef04c6a93
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0
 bpm=0
 beat_count=0

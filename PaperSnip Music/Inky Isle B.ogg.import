@@ -12,7 +12,7 @@ dest_files=["res://.godot/imported/Inky Isle B.ogg-0f2b842558fb6e9fd90d78a22592a
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0
 bpm=0
 beat_count=0

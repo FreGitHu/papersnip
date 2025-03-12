@@ -12,7 +12,7 @@ dest_files=["res://.godot/imported/PaperSnip Settings.ogg-0fff8031e3bfe052e0ce70
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0
 bpm=0
 beat_count=0

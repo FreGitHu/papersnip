@@ -12,7 +12,7 @@ dest_files=["res://.godot/imported/Scissors Scrapyard A.ogg-d5dcb65f1e5755f4fa60
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0
 bpm=0
 beat_count=0

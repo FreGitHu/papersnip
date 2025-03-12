@@ -12,7 +12,7 @@ dest_files=["res://.godot/imported/Notey Notebook C.ogg-0931efa1fccc172f1c7a97d7
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0
 bpm=0
 beat_count=0

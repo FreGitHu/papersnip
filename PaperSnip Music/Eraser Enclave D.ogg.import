@@ -12,7 +12,7 @@ dest_files=["res://.godot/imported/Eraser Enclave D.ogg-713779e07e6af12ea5e3c3ec
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0
 bpm=0
 beat_count=0
